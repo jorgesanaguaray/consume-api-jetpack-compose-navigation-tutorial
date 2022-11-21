@@ -12,7 +12,7 @@ class Constants {
         const val GAMES_ENDPOINT = "games"
         const val GAME_ID_ENDPOINT = "game?id="
 
-        const val KEY_GAME_ID = "com.jorgesanaguaray.practice6.id"
+        const val KEY_GAME_ID = "com.jorgesanaguaray.consumeapijetpackcomposenavigationtutorial.id"
 
     }
 
