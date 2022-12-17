@@ -48,5 +48,5 @@ Android App that uses Retrofit and Jetpack Compose to easily consume a gaming AP
 
 [Tutorial on YouTube](https://youtu.be/bLA9YmJdZ78)
 
-![App Screenshot](https://pbs.twimg.com/media/FiLag4GXwAEup9i?format=jpg&name=large)
+![App Screenshot](https://pbs.twimg.com/media/FkN2s6FWYAAvTCt?format=jpg&name=large)
 
